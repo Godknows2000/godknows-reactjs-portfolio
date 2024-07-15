@@ -1,20 +1,15 @@
-import { DiBootstrap, DiReact } from "react-icons/di";
-import { FaNodeJs, FaPython } from "react-icons/fa";
+import { DiBootstrap } from "react-icons/di";
+import { FaPython } from "react-icons/fa";
 import {
   SiDjango,
-  SiExpress,
   SiLaravel,
-  SiMongodb,
   SiPhp,
   SiPostgresql,
   SiTailwindcss,
 } from "react-icons/si";
 import { SiFiverr } from "react-icons/si";
 import { AiFillGithub, AiFillLinkedin, AiFillYoutube } from "react-icons/ai";
-import { CgFigma } from "react-icons/cg";
-import { TbBrandReactNative } from "react-icons/tb";
-import { SiAdobexd } from "react-icons/si";
-import { SiFigma, SiFlutter, SiCsharp } from "react-icons/si";
+import { SiFlutter, SiCsharp } from "react-icons/si";
 import image1 from "./images/image-1.png";
 import image2 from "./images/image-2.png";
 import image3 from "./images/image-3.png";
