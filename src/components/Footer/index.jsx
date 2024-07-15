@@ -29,6 +29,7 @@ const Footer = () => {
               href={list.link}
               className="icon__container social__handles"
               target="_blank"
+              rel="noopener noreferrer"
               key={index}
             >
               {list.icon}

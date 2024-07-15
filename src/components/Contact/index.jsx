@@ -26,6 +26,7 @@ const Contact = () => {
               <a
                 href="godknowsaresho@gmail.com"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="btn"
               >
                 Send a message
@@ -38,6 +39,7 @@ const Contact = () => {
               <a
                 href="https://www.linkedin.com/in/godknows-aresho-1231361b1"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="btn"
               >
                 Send a message
@@ -50,6 +52,7 @@ const Contact = () => {
               <a
                 href="https://api.whatsapp.com/send?phone=+263715725572"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="btn"
               >
                 Send a message
