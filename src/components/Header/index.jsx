@@ -1,6 +1,6 @@
 import React, { useRef } from "react";
 import "./Header.css";
-import { logo, profile7 } from "../../images";
+import { profile7 } from "../../images";
 import Facts from "./Facts";
 import gsap from "gsap";
 import { useGSAP } from "@gsap/react";

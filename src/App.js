@@ -8,7 +8,6 @@ import Projects from "./components/Projects";
 import Testimonial from "./components/Testimonial";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-import Experience from "./components/Experience";
 
 function App() {
   return (
@@ -18,7 +17,6 @@ function App() {
       <About />
       <Services />
       <Skills />
-      {/* <Experience /> */}
       <Projects />
       <Testimonial />
       <Contact />
